@@ -1,2 +1,2 @@
 # JSDoc-Test
-JSDoc-Test
+Playground for JSDoc tests
